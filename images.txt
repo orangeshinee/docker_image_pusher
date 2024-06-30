@@ -1,3 +1,4 @@
 nginx
 xiaoyaliu/alist
 allanpk716/chinesesubfinder:latest
+easychen/cookiecloud:latest
